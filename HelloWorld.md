@@ -1,2 +1,3 @@
 ## This is a markdown file
-git push
+$ git remote add origin https://github.com/anne-ong/HelloWorld.git
+$ git push origin master
